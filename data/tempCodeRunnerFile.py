@@ -1,0 +1,1 @@
+ imgBackground[162:162 + 480, 55:55 + 640] = frame
